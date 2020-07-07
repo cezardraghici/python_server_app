@@ -1,0 +1,8 @@
+[WDM] - Current google-chrome version is 83.0.4103
+[WDM] - Get LATEST driver version for 83.0.4103
+[WDM] - Driver [/home/cezar/.wdm/drivers/chromedriver/linux64/83.0.4103.39/chromedriver] found in cache
+ 
+ING EUR 4.8102 4.8682
+ING USD 4.2606 4.3120
+ING GBP 5.3530 5.4176
+ING CHF 4.5234 4.5780
